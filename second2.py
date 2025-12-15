@@ -1,0 +1,1 @@
+print("Hello from second2.py!")
